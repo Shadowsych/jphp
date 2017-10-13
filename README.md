@@ -1,2 +1,4 @@
-# jphp
-An API to make Java and PHP server-side integration simpler. 
+# Overview
+JPHP (or Java PHP) is a Java-based application that makes HTTP POST/GET responses between Java and PHP simpler.
+
+# Documentation
